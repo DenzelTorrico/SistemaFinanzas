@@ -1,0 +1,5 @@
+# Created at 2024-01-09T13:27:57.258
+Boot Manifest-JAR contains absolute paths in classpath 'E:\denzel\proyects de lenguajes\RegistroFinanzasPersonales\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
