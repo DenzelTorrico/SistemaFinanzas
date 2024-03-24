@@ -1,3 +1,25 @@
+<<<<<<< HEAD
+E:\denzel\proyects de lenguajes\RegistroFinanzasPersonales\src\main\java\com\finanzas\personal\Repository\CarteraRepository.java
+E:\denzel\proyects de lenguajes\RegistroFinanzasPersonales\src\main\java\com\finanzas\personal\Services\CarteraService.java
+E:\denzel\proyects de lenguajes\RegistroFinanzasPersonales\src\main\java\com\finanzas\personal\Controller\TipoIngresoController.java
+E:\denzel\proyects de lenguajes\RegistroFinanzasPersonales\src\main\java\com\finanzas\personal\Services\EgresosService.java
+E:\denzel\proyects de lenguajes\RegistroFinanzasPersonales\src\main\java\com\finanzas\personal\Model\IngresosModel.java
+E:\denzel\proyects de lenguajes\RegistroFinanzasPersonales\src\main\java\com\finanzas\personal\Repository\IngresoRepository.java
+E:\denzel\proyects de lenguajes\RegistroFinanzasPersonales\src\main\java\com\finanzas\personal\Model\TipoIngreso.java
+E:\denzel\proyects de lenguajes\RegistroFinanzasPersonales\src\main\java\com\finanzas\personal\Controller\WebHookController.java
+E:\denzel\proyects de lenguajes\RegistroFinanzasPersonales\src\main\java\com\finanzas\personal\Repository\TipoIngresoRepository.java
+E:\denzel\proyects de lenguajes\RegistroFinanzasPersonales\src\main\java\com\finanzas\personal\Model\Cartera.java
+E:\denzel\proyects de lenguajes\RegistroFinanzasPersonales\src\main\java\com\finanzas\personal\Model\Egresos.java
+E:\denzel\proyects de lenguajes\RegistroFinanzasPersonales\src\main\java\com\finanzas\personal\Services\IngresoService.java
+E:\denzel\proyects de lenguajes\RegistroFinanzasPersonales\src\main\java\com\finanzas\personal\Services\TipoIngresoService.java
+E:\denzel\proyects de lenguajes\RegistroFinanzasPersonales\src\main\java\com\finanzas\personal\Controller\IndexController.java
+E:\denzel\proyects de lenguajes\RegistroFinanzasPersonales\src\main\java\com\finanzas\personal\Repository\EgresosRepository.java
+E:\denzel\proyects de lenguajes\RegistroFinanzasPersonales\src\main\java\com\finanzas\personal\Controller\IngresosController.java
+E:\denzel\proyects de lenguajes\RegistroFinanzasPersonales\src\main\java\com\finanzas\personal\Controller\EgresosController.java
+E:\denzel\proyects de lenguajes\RegistroFinanzasPersonales\src\main\java\com\finanzas\personal\Model\TipoEgreso.java
+E:\denzel\proyects de lenguajes\RegistroFinanzasPersonales\src\main\java\com\finanzas\personal\RegistroFinanzasPersonalesApplication.java
+E:\denzel\proyects de lenguajes\RegistroFinanzasPersonales\src\main\java\com\finanzas\personal\Services\TelegramNotificationService.java
+=======
 E:\denzel\PROYECTOS REALIZADOS\SistemaFinanzas\src\main\java\com\finanzas\personal\Services\EgresosService.java
 E:\denzel\PROYECTOS REALIZADOS\SistemaFinanzas\src\main\java\com\finanzas\personal\Services\IngresoService.java
 E:\denzel\PROYECTOS REALIZADOS\SistemaFinanzas\src\main\java\com\finanzas\personal\Controller\EgresosController.java
@@ -18,3 +40,4 @@ E:\denzel\PROYECTOS REALIZADOS\SistemaFinanzas\src\main\java\com\finanzas\person
 E:\denzel\PROYECTOS REALIZADOS\SistemaFinanzas\src\main\java\com\finanzas\personal\Controller\IndexController.java
 E:\denzel\PROYECTOS REALIZADOS\SistemaFinanzas\src\main\java\com\finanzas\personal\Repository\EgresosRepository.java
 E:\denzel\PROYECTOS REALIZADOS\SistemaFinanzas\src\main\java\com\finanzas\personal\Services\TelegramNotificationService.java
+>>>>>>> 7f08ec67f59254de90b687dfd3a131e3d754f379

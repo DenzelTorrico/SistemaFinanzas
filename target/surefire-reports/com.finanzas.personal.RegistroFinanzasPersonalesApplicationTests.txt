@@ -1,4 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: com.finanzas.personal.RegistroFinanzasPersonalesApplicationTests
 -------------------------------------------------------------------------------
+<<<<<<< HEAD
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.276 s - in com.finanzas.personal.RegistroFinanzasPersonalesApplicationTests
+=======
 Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.612 s - in com.finanzas.personal.RegistroFinanzasPersonalesApplicationTests
+>>>>>>> 7f08ec67f59254de90b687dfd3a131e3d754f379
